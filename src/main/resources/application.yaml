@@ -1,0 +1,6 @@
+
+app:
+  bucket-name: %YOUR_BUCKET%
+  access-key: %ACCESS_KEY%
+  secret-key: 3%PRIVATE_KEY%
+  region: %REGION%
